@@ -7,6 +7,8 @@ bool hasFirstUpdated = false;
 IContainer* labelTop = nullptr;
 IContainer* mainContainer = nullptr;
 
+int prevVehicle = 0;
+
 void InitMod()
 {
     
